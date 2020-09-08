@@ -2,10 +2,7 @@
 
 I am Umesh Singh. I am currently a student. I am attracted towards machine learning and I enjoy working and learning on such projects which involve machine learning.I also have good knowledge of python,java.
 
-<!--
-**theOffice-475/theOffice-475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
  
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on any ML project.
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: you can contact me via my email: S1032170230@gmail.com
 - ⚡ Fun fact: I am good with numbers and math.
--->
+
